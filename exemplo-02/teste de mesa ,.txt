@@ -1,0 +1,13 @@
+Algoritmo CaluculaMedia
+	Entre com valor para PEÇA
+	Entre com valor para QUANTIDADE
+	Faça valor total=(VALOR * QTDE)
+	Mostre valor total
+FimAlgoritmo
+
+
+Teste de mesa
+VALOR	QTDE	TOTAL
+ 2,50	10	 25
+10	6	 60	
+ 9,99	6	 59,94
