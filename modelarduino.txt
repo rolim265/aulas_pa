@@ -1,0 +1,19 @@
+para (for)
+para x de 1 ate 10 faca
+  instrucao
+
+ fim para
+
+enquanto (while)
+
+enquanto <condicao> 'faca
+ instrucao
+ fimenquanto
+
+repita (do while)
+
+repita
+ instrucao
+ ate <condicao>
+ 
+ fimrepita
